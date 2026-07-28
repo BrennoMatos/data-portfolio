@@ -30,7 +30,7 @@ Variáveis:
 
 ## Resultados
 
-Score do modelo: XX%
+Score do modelo: 64%
 
 ## Conclusões
 
