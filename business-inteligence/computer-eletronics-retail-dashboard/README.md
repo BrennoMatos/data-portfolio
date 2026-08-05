@@ -157,13 +157,6 @@ Computer-Electronics-Retail-Dashboard
 ├── dashboard
 │   └── Computer Electronics Retail.pbix
 │
-├── images
-│   ├── dashboard.png
-│   └── preview.gif
-│
-├── sql
-│   └── analytical_queries.sql
-│
 └── README.md
 ```
 
