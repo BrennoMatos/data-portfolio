@@ -6,13 +6,6 @@ The project connects directly to a **PostgreSQL** database and provides an execu
 
 ---
 
-# 📸 Dashboard Preview
-
-<p align="center">
-  <img src="images/dashboard.png" alt="Computer Electronics Retail Dashboard" width="100%">
-</p>
-
----
 
 # 📌 Project Overview
 
