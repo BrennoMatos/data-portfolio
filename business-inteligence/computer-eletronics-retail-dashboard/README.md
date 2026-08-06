@@ -160,6 +160,9 @@ Computer-Electronics-Retail-Dashboard
 ├── dashboard
 │   └── Computer Electronics Retail.pbix
 │
+├──images
+│     └── dashboard-preview.PNG
+│    
 └── README.md
 ```
 
