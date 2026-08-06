@@ -6,6 +6,8 @@ The project connects directly to a **PostgreSQL** database and provides an execu
 
 ---
 
+# 📸 Dashboard Preview
+
 
 # 📌 Project Overview
 
