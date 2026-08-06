@@ -8,7 +8,7 @@ The project connects directly to a **PostgreSQL** database and provides an execu
 
 # 📸 Dashboard Preview
 
-images/dashboard-preview.png
+| ![](images/dashboard-preview.png) |
 
 # 📌 Project Overview
 
