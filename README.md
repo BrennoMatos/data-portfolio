@@ -1,4 +1,4 @@
-# Data Portifolio
+# Data Portfolio
 
 Repository dedicated to my projects and studies in:
 
