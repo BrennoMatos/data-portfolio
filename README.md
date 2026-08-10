@@ -10,7 +10,7 @@ Repository dedicated to my projects and studies in:
 
 ## Structure
 
-- business-inteligence/
+- business-inteligence-dashboard/
 - certificates/
 - data-engineering/
 - database-management-system/
