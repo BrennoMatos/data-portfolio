@@ -53,7 +53,7 @@ The main objectives of the dashboard are:
 ---
 ## 📷 Dashboard Pages
 
-![Home](images/home.png)
+![Home](images/home.PNG)
 
 ![Manufacturing](images/manufacturing.PNG)
 
