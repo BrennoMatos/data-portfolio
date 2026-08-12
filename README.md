@@ -1,17 +1,19 @@
 # Data Portfolio
 
-Repository dedicated to my projects and studies in:
+Portfolio focused on Data Analytics, Business Intelligence
+and Data Science.
 
-- Data Science
+## Areas
+
+- Data Analytics & SQL
+- Business Intelligence
+- Database Management
 - Data Engineering
-- Data Base Management Systems
-- BI Tools and Analysis
 - Machine Learning
 
-## Structure
+## Featured Projects
 
-- business-inteligence-dashboard/
-- certificates/
-- data-engineering/
-- database-management-system/
-- machine-learning/
+- computer-electronics-retailer-dashboard
+- cosmetics-supply-chain-analytics
+- computer-electronics-retailer
+- database-modeling-bookstore
